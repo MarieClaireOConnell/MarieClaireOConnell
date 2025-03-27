@@ -1,0 +1,33 @@
+## 📚 About Me
+Hi, I'm Marie! I'm an innovative Data Scientist and former Lab Supervisor/Consultant with 9+ years of experience in laboratory management and operations. I’m passionate about solving real-world problems through machine learning, deep learning, and data analytics.
+
+---
+
+## 📝 Projects
+Here are some of the key projects I’ve worked on:
+
+### 📊 1. Electric Vehicle Performance Analysis
+- **Objective:** Optimize EV performance by minimizing costs and improving energy efficiency.
+- **Tech Stack:** Python, Pandas, Scikit-learn, Keras, TensorFlow
+- [View Project](https://github.com/MarieClaireOConnell/EV_Charging_Prediction)
+
+### 📝 2. Heart_Disease_Prediction
+- **Objective:** Build a machine learning model to predict heart disease using SVM, Random Forest, and Logistic Regression.
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- [View Project](https://github.com/MarieClaireOConnell/ML_Heart_Disease_Prediction)
+
+
+---
+
+## 🎯 Skills & Tools
+- **Programming:** Python, R, SQL
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Flask
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Version Control & IDEs:** Git, GitHub, Visual Studio, Jupyter Notebook, RStudio
+- **Machine Learning & Deep Learning:** CNNs, NLP, Model Evaluation, Feature Engineering
+
+---
+
+## 📧 Contact
+- **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/Marie])([https://www.linkedin.com/in/marie-o-connell-2121298b/](https://www.linkedin.com/in/marie-o-2121298b))
+- **GitHub:** [GitHub Profile]([https://github.com/Marie])(https://github.com/MarieClaireOConnell)
