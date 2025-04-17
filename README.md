@@ -16,6 +16,10 @@ Here are some of the key projects I’ve worked on:
 - **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - [View Project](https://github.com/MarieClaireOConnell/ML_Heart_Disease_Prediction)
 
+*** 🧬 3. GoGreen Laboratory Database
+- **Objective:**Model and manage a clinical laboratory system using SQL Server, including test orders, clients, results, and staff coordination. Demonstrates relational schema design and advanced SQL querying.
+- **Tech Stack:** SQL Server, T-SQL, SQL Server Management Studio (SSMS)
+- [View Project](https://github.com/MarieClaireOConnell/GoGreen-Laboratory-Database)
 
 ---
 
