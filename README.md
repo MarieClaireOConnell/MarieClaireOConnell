@@ -6,17 +6,17 @@ Hi, I'm Marie! I'm an innovative Data Scientist and former Lab Supervisor/Consul
 ## 📝 Projects
 Here are some of the key projects I’ve worked on:
 
-### 📊 1. Electric Vehicle Performance Analysis
+### ⚡ 1. Electric Vehicle Performance Analysis
 - **Objective:** Optimize EV performance by minimizing costs and improving energy efficiency.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Keras, TensorFlow
 - [View Project](https://github.com/MarieClaireOConnell/EV_Charging_Prediction)
 
-### 📝 2. Heart_Disease_Prediction
+### ❤️ 2. Heart_Disease_Prediction
 - **Objective:** Build a machine learning model to predict heart disease using SVM, Random Forest, and Logistic Regression.
 - **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - [View Project](https://github.com/MarieClaireOConnell/ML_Heart_Disease_Prediction)
 
-###🧬 3. GoGreen Laboratory Database
+### 🧬 3. GoGreen Laboratory Database
 - **Objective:** Model and manage a clinical laboratory system using SQL Server, including test orders, clients, results, and staff coordination. Demonstrates relational schema design and advanced SQL querying.
 - **Tech Stack:** SQL Server, T-SQL, SQL Server Management Studio (SSMS)
 - [View Project](https://github.com/MarieClaireOConnell/GoGreen-Laboratory-Database)
