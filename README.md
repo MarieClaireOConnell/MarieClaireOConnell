@@ -21,6 +21,12 @@ Here are some of the key projects I’ve worked on:
 - **Tech Stack:** SQL Server, T-SQL, SQL Server Management Studio (SSMS)
 - [View Project](https://github.com/MarieClaireOConnell/GoGreen-Laboratory-Database)
 
+
+### 🌍 4. Attitudes on Optimizing Generative AI for Sustainability
+- **Objective:** Conduct a research-based analysis exploring user perspectives on enhancing generative AI tools to reduce environmental impact. Includes literature review, data collection from surveys, and thematic analysis to guide sustainable AI design.
+- **Tech Stack:** Python, Pandas, Jupyter Notebook, Google Forms, Thematic Analysis (manual coding & visualization), Matplotlib
+- [View Project](https://github.com/MarieClaireOConnell/User-Attitudes-on-Optimizing-Generative-AI-for-Sustainability)
+
 ---
 
 ## 🎯 Skills & Tools
