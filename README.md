@@ -27,6 +27,12 @@ Here are some of the key projects I’ve worked on:
 - **Tech Stack:** Python, Pandas, Jupyter Notebook, Qualtrics, Thematic Analysis (manual coding & visualization), Matplotlib
 - [View Project](https://github.com/MarieClaireOConnell/User-Attitudes-on-Optimizing-Generative-AI-for-Sustainability)
 
+
+### 🎓 Coursework Portfolio from the MSIM Program at the University of Washington
+- **Objective:** Curated academic projects showcasing skills in information management, data analysis, informatics, and research methods. Coursework examples are available upon request to respect academic integrity and institutional policies.
+- **Tech Stack:** MapReduce algorithm design and implementation, Rosenblatt's Perceptron Algorithm, out-of-the-box neural networks, supervised text regression with conventional and neural representations, deep learning for image classification.
+- [Request Access](mailto:your-email@example.com)
+
 ---
 
 ## 🎯 Skills & Tools
