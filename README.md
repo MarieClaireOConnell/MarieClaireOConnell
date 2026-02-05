@@ -1,5 +1,5 @@
 ## 📚 About Me
-Hi, I'm Marie! I'm an innovative Data Scientist and former Lab Supervisor/Consultant with 9+ years of experience in laboratory management and operations. I’m passionate about solving real-world problems through machine learning, deep learning, and data analytics.
+Hi, I'm Marie! I'm an innovative Data Scientist and Informatics Specialist with 10+ years of experience translating complex operational and transactional data into actionable insights that support strategic decision-making. Proven ability to conduct exploratory data analysis, build reusable data pipelines, and develop predictive and descriptive models using Python and SQL. Experienced partnering cross-functionally with operations, finance, compliance, product, and executive stakeholders to improve performance, efficiency, and data quality. Strong foundation in statistical modeling, experimentation, and scalable analytics, with graduate-level training in machine learning, distributed systems, and data governance.
 
 ---
 
